@@ -43,6 +43,7 @@ the following resources handy:
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
 * Ruby on Rails Tutorial Book: http://www.railstutorial.org/
 
+5. Update
 
 == Debugging Rails
 
